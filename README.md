@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Polo</h1>
 <h3 align="center">A passionate backenddeveloper from Spain</h3>
 
-- 🌱 I’m currently learning **PHP, Django, Flask and mariaDB**
+- 🌱 I’m currently learning **PHP, Django, Flask,GIT and mariaDB**
 
 - 💬 Ask me about **Python, Java, C and SQL**
 
@@ -11,8 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/alex polo rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex polo rodriguez" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alexpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alexpr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alexrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alexrp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/programator789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="programator789" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
