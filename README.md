@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex Polo</h1>
 <h3 align="center">A passionate backenddeveloper from Spain</h3>
 
-- 🌱 I’m currently learning **PHP, Django, Flask,GIT and mariaDB**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, Java, C and SQL**
+- 💬 Ask me about **Python, Java, C, SQL and GIT**
 
 - 📫 How to reach me **poloa2425@gmail.com**
 
@@ -15,3 +15,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> </p>
